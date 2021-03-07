@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bck-img {
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+    background: url(../assets/pexels-tatiana-fet-11057661.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.block-1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.block-2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+}
